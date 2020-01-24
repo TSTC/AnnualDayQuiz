@@ -16,7 +16,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Annual Day Quiz" />
+              <option name="title_text" value="Quiz" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1350,7 +1350,7 @@
       <links>
         <slidelink slideid="_player.5VDY4TET04l" displaytext="Assessment" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5VDY4TET04l.5lBJhizaHHQ" displaytext="Assessment introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.5VDY4TET04l.5lBJhizaHHQ" displaytext="Introduction" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
